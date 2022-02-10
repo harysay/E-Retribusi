@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E-Retribusi Pasar Kebumen</string>
+    <string name="html_setuju">
+        <![CDATA[
+        <h2>Syarat dan Ketentuan</h2>
+        <h3>Syarat</h3>
+        <p>Pengguna memiliki <em>device Android</em> dengan spesifikasi sebagai berikut:</p>
+         <ol>
+            <li>Minimum versi Lolipop (5.0) atau lebih baru</li>
+            <li>Memiliki koneksi internet</li>
+            <li>Fitur Kamera berfungsi baik</li>
+        </ol>
+
+
+        <h3>Ketentuan</h3>
+        <p>Untuk pemakaian aplikasi ini, pengguna perlu menyetujui ketentuan yang ada.</p>
+        <p>Ketentuan tersebut adalah
+        <ul>
+            <li><b>Izinkan </b>apabila aplikasi meminta untuk menggunakan fitur kamera</li>
+        </ul>
+
+        <h3>Bantuan dan Saran</h3>
+        <p>Bila mengalami kendala atau ada pertanyaan silakan kontak tim kami.</p>
+        <ul>
+            <li><a href="mailto:programmerkebumen@gmail.com">Email</a></li>
+        </ul>
+        <h3>Persetujuan</h3>
+        <p>Dengan ini, saya menyetujui mengikuti ketentuan di atas dan memberikan izin aplikasi ini menggunakan fitur yang diperlukan.</p>
+        ]]>
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

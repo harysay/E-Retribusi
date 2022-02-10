@@ -1,0 +1,3 @@
+include ':awesome-code-scanner'
+include ':app'
+rootProject.name = "E-Retribusi"

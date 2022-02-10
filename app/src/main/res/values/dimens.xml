@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_footer">10dp</dimen>
+    <dimen name="btn_text_size">16sp</dimen>
+    <dimen name="icon_request_size">100dp</dimen>
+    <dimen name="request_text_size">16sp</dimen>
+    <dimen name="content_text_size">14sp</dimen>
+    <dimen name="btn_padding">12dp</dimen>
+    <dimen name="btn_margin">5dp</dimen>
+    <dimen name="btn_padding_small">5dp</dimen>
+    <dimen name="quote_padding">20dp</dimen>
+    <dimen name="small_padding">4dp</dimen>
+    <dimen name="teks_spasi">8dp</dimen>
+
+    <dimen name="activity_splash_text_margin_top">24dp</dimen>
+    <dimen name="toggle_camera_lens_padding">16dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="msg_text_primary">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
